@@ -54,8 +54,8 @@
 
 ### 📫 Como falar comigo:
 
-- 📧 fabioantonio.dev@gmail.com *(ou seu e-mail atualizado)*
-- 💼 [LinkedIn](https://www.linkedin.com/in/fabioantonio/) *(adicione se tiver)*
+- 📧 fabioantoniosa03@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/fabioantonio/)
 - 🧠 Sempre disposto a aprender, ajudar e crescer junto! 🚀
 
 ---
