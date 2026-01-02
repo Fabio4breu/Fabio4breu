@@ -1,26 +1,35 @@
 <h1 align="center">Olá! 👋 Eu sou o Fábio Antônio</h1>
-<h3 align="center">Desenvolvedor Back-End | Estudante de Infraestrutura Cloud</h3>
-
-
----
-
-🎓 **Universitário em Análise e Desenvolvimento de Sistemas** — Instituto Federal de Sergipe (IFS)  
-👨‍💻 Estagiário na IfSmart Jr. | Aracaju - SE  
-🌐 Apaixonado por tecnologia, automação e soluções que geram impacto real  
-🔧 Atualmente estudando: AWS | Docker | Ansible | Oracle Cloud | Terraform  
+<h3 align="center">Estagiário em Back-end | Java | APIs REST</h3>
 
 ---
 
-### 🚀 Tecnologias & Ferramentas
+🎓 **Estudante de Análise e Desenvolvimento de Sistemas** — Instituto Federal de Sergipe (IFS)  
+👨‍💻 Experiência em projetos de desenvolvimento Back-end e APIs  
+☁️ Background em infraestrutura e cloud, agregando visão completa de sistemas  
+🚀 Foco atual: **Back-end Java, boas práticas e APIs REST**
 
+---
+
+### 🚀 Tecnologias & Conhecimentos
+
+#### 💻 Back-end
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk)
+![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![.NET](https://img.shields.io/badge/-DotNet-05122A?style=flat&logo=dotnet)
+![API](https://img.shields.io/badge/-APIs%20REST-05122A?style=flat)
+
+#### 🗄️ Banco de Dados
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoft-sql-server)
+
+#### ⚙️ Ferramentas & Ambiente
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
-![Ansible](https://img.shields.io/badge/-Ansible-05122A?style=flat&logo=ansible)
+
+#### ☁️ Cloud & Infra (Diferencial)
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonaws)
-![Zabbix](https://img.shields.io/badge/-Zabbix-05122A?style=flat&logo=zabbix)
 ![Oracle Cloud](https://img.shields.io/badge/-OracleCloud-05122A?style=flat&logo=oracle)
 
 ---
@@ -28,38 +37,36 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fabioantonio&show_icons=true&theme=radical" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabioantonio&layout=compact&theme=radical" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fabio4breu&show_icons=true&theme=radical" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabio4breu&layout=compact&theme=radical" height="165">
 </p>
 
 ---
 
 ### 📚 Certificações
 
-- AWS — Fundamentos da Nuvem
-- Azure — Fundamentos
-- Python — DIO (Digital Innovation One)
-- NLW Pocket — Javascript, Programação Iniciante
+- AWS — Fundamentos da Nuvem  
+- Azure — Fundamentos  
+- Python — DIO (Digital Innovation One)  
+- NLW Pocket — Javascript e Programação Iniciante  
 - Community Week — Rocketseat (2022)
 
 ---
 
-### ✨ Curiosidades
+### 🎯 Objetivo Profissional
 
-- 👊 Gosto de desafios técnicos e estou sempre estudando para evoluir como profissional
-- 🧠 Tenho interesse em desenvolvimento de soluções acessíveis para pessoas com deficiência
-- 🤝 Acredito na colaboração como chave para criar soluções melhores
+Busco uma **oportunidade de estágio em Back-end**, com foco em **Java**, onde eu possa evoluir em arquitetura, boas práticas, APIs REST e bancos de dados, contribuindo com soluções bem estruturadas e escaláveis.
 
 ---
 
-### 📫 Como falar comigo:
+### 📫 Contato
 
-- 📧 fabioantoniosa03@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/f%C3%A1bio-ant%C3%B4nio/)
-- 🧠 Sempre disposto a aprender, ajudar e crescer junto! 🚀
+- 📧 Email: **fabioantoniosa03@gmail.com**  
+- 💼 LinkedIn: [linkedin.com/in/fabio-abreu-santos](https://www.linkedin.com/in/fabio-abreu-santos/) 
 
 ---
 
-🛠️ Repositórios em destaque:
-- 💡 Projeto de acessibilidade na academia — TCC em desenvolvimento
-- ⚙️ Desafios com Ansible e automações na Oracle Cloud e AWS
+### 🛠️ Repositórios em destaque
+- 💡 Aplicação voltada à acessibilidade na academia (TCC em desenvolvimento)  
+- ⚙️ APIs Back-end e projetos práticos com Java  
+- ☁️ Projetos de apoio envolvendo Docker e Cloud
