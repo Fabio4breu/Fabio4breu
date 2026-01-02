@@ -34,15 +34,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fabio4breu&show_icons=true&theme=radical" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabio4breu&layout=compact&theme=radical" height="165">
-</p>
-
----
-
 ### 📚 Certificações
 
 - AWS — Fundamentos da Nuvem  
